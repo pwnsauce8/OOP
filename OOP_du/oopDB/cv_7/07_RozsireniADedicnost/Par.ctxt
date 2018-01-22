@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=muz\ zena
+comment0.target=Par(Osoba,\ Osoba)
+comment0.text=\r\n\ P\u0159evezme\ instance\ mu\u017Ee\ a\ \u017Eeny,\ kte\u0159\u00ED\ p\u0159i\u0161li\ na\ rande\r\n\ \r\n\ @param\ muz\ \ \ mu\u017E,\ kter\u00FD\ p\u0159i\u0161el\ na\ rande\r\n\ @param\ zena\ \ \u017Eena,\ kter\u00E1\ p\u0159i\u0161la\ na\ rande\r\n
+comment1.params=
+comment1.target=Pozice\ getPozice()
+comment1.text=\r\n\ Vr\u00E1t\u00ED\ instanci\ t\u0159\u00EDdy\ {@code\ Pozice}\ s\ aktu\u00E1ln\u00ED\ pozic\u00ED\ instance.\r\n\r\n\ @return\ \ Aktu\u00E1ln\u00ED\ pozici\ v\ instanci\ t\u0159\u00EDdy\ {@code\ Pozice}\ \r\n
+comment2.params=x\ y
+comment2.target=void\ setPozice(int,\ int)
+comment2.text=\r\n\ Nastav\u00ED\ novou\ pozici\ instance.\r\n\r\n\ @param\ x\ \ Nov\u011B\ nastavovan\u00E1\ vodorovn\u00E1\ (x-ov\u00E1)\ sou\u0159adnice\ instance,\r\n\ \ \ \ \ \ \ \ \ \ \ x\=0\ m\u00E1\ lev\u00FD\ okraj\ pl\u00E1tna,\ sou\u0159adnice\ roste\ doprava\r\n\ @param\ y\ \ Nov\u011B\ nastavovan\u00E1\ svisl\u00E1\ (y-ov\u00E1)\ sou\u0159adnice\ instance,\r\n\ \ \ \ \ \ \ \ \ \ \ y\=0\ m\u00E1\ horn\u00ED\ okraj\ pl\u00E1tna,\ sou\u0159adnice\ roste\ dol\u016F\r\n
+comment3.params=kreslitko
+comment3.target=void\ nakresli(Kreslitko)
+comment3.text=\r\n\ Prost\u0159ednictv\u00EDm\ dodan\u00E9ho\ kresl\u00EDtka\ vykresl\u00ED\ obraz\ sv\u00E9\ instance.\r\n\r\n\ @param\ kreslitko\ Kresl\u00EDtko,\ kter\u00E9\ nakresl\u00ED\ instanci\r\n
+comment4.params=muz\ zena\ yPosunMuze\ yPosunZeny
+comment4.target=Par(Osoba,\ Osoba,\ int,\ int)
+comment4.text=\r\n\ P\u0159evezme\ instance\ mu\u017Ee\ a\ \u017Eeny,\ kte\u0159\u00ED\ p\u0159i\u0161li\ na\ rande\r\n\ v\u010Detn\u011B\ jejich\ v\u00FD\u0161kov\u00FDch\ posun\u016F\r\n\r\n\ @param\ muz\ \ \ \ \ \ \ \ mu\u017E,\ kter\u00FD\ p\u0159i\u0161el\ na\ rande\r\n\ @param\ zena\ \ \ \ \ \ \ \u017Eena,\ kter\u00E1\ p\u0159i\u0161la\ na\ rande\r\n\ @param\ yPosunMuze\ vyskovy\ posun\ muze,\ aby\ byl\ par\ na\ stejne\ dolni\ urovni\r\n\ @param\ yPosunZeny\ vyskovy\ posun\ zeny,\ aby\ byl\ par\ na\ stejne\ dolni\ urovni\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=chyboveHlaseni\ obrazec
+comment0.target=void\ testVykresleni(java.lang.String,\ IKresleny)
+comment0.text=\r\n\ Test\ vykreslen\u00ED\ obrazce\ na\ pl\u00E1tnu\r\n\ \r\n\ @param\ chyboveHlaseni\ chybov\u00E9\ hl\u00E1\u0161en\u00ED\ Assertu\r\n\ @param\ obrazec\ obrazec,\ ter\u00FD\ m\u00E1\ b\u00FDt\ vykreslen\r\n
+comment1.params=
+comment1.target=void\ testZvyrazneniPozadi()
+comment2.params=
+comment2.target=void\ testZvyrazneniPozadiVelkymObdelnikem()
+comment3.params=
+comment3.target=void\ testZvyrazneniPozadiElipsou()
+comment4.params=
+comment4.target=void\ testZvyrazneniOblasti()
+numComments=5

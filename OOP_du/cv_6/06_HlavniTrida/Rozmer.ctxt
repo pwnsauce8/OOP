@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sirka\ vyska
+comment0.target=Rozmer(int,\ int)
+comment0.text=\r\n\ \r\n\ P\u0159iprav\u00ED\ t\u0159idu\ Rozmer\ s\ zadanou\ \u0161irkou\ a\ vy\u0161ku.\r\n\ \r\n\ @param\ \ \ sirka\ \ \ \u0161irka\r\n\ @param\ \ \ vyska\ \ \ vy\u0161ka\r\n\ \r\n
+comment1.params=
+comment1.target=int\ getSirka()
+comment1.text=\r\n\ \r\n\ Vrati\ hodnotu\ \u0161irky\r\n\ \r\n\ @return\ \ sirka\ \ \ hodnota\ \u0161irky\r\n\ \r\n
+comment2.params=
+comment2.target=int\ getVyska()
+comment2.text=\r\n\ \r\n\ Vrati\ hodnotu\ vy\u0161ky\r\n\ \r\n\ @return\ \ vyska\ \ \ hodnota\ \u0161irky\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \r\n\ Vrati\ nazev\ t\u0159idy,\ rozmer\ \u0161irky\ a\ vy\u0161ky\r\n\ \r\n\ @return\ pom\ \ \ \ \ nazev\ t\u0159idy,\ rozmer\ \u0161irky\ a\ vy\u0161ky\r\n\ \r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zvyraznovac()
+comment0.text=\r\n\ Z\u00E1kladn\u00ED\ konstruktor\r\n
+comment1.params=pridano
+comment1.target=Zvyraznovac(int)
+comment1.text=\r\n\ Konstruktor\r\n\ \r\n\ @param\ pridano\ \ \ \ p\u0159id\u00E1\ po\u010Det\ pixelu,\ kter\u00FD\ jsme\ si\ zadali\r\n
+comment2.params=objekt\ barva
+comment2.target=Obdelnik\ zvyrazniPozadi(IZvyrazneny,\ Barva)
+comment2.text=\r\n\ Kreslen\u00FD\ objekt\ zv\u00FDrazn\u00ED\ t\u00EDm,\ \u017Ee\ danou\ barvou\ vykresl\u00ED\ na\ pozad\u00ED\ objektu\r\n\ ohrani\u010Duj\u00EDc\u00ED\ obd\u00E9ln\u00EDk,\ jeho\u017E\ rozm\u011Bry\ jsou\ na\ v\u0161echny\ strany\ zv\u011Bt\u0161eny\ oproti\r\n\ rozm\u011Br\u016Fm\ zv\u00FDraz\u0148ovan\u00E9ho\ objektu\ o\ hodnotu\ {@code\ pridano}.\r\n\r\n\ @param\ objekt\ zv\u00FDraz\u0148ovan\u00FD\ objekt\r\n\ @param\ barva\ barva\ zv\u00FDraz\u0148uj\u00EDc\u00EDho\ obd\u00E9ln\u00EDka\ na\ pozad\u00ED\r\n\ @return\ zv\u00FDraz\u0148uj\u00EDc\u00ED\ obd\u00E9ln\u00EDk\r\n
+comment3.params=objekt\ barva
+comment3.target=Elipsa\ zvyrazniPozadiElipsou(IZvyrazneny,\ Barva)
+comment3.text=\r\n\ Kreslen\u00FD\ objekt\ zv\u00FDrazn\u00ED\ t\u00EDm,\ \u017Ee\ danou\ barvou\ vykresl\u00ED\ na\ pozad\u00ED\ objektu\r\n\ ohrani\u010Duj\u00EDc\u00ED\ elipsu,\ jej\u00ED\u017E\ rozm\u011Bry\ jsou\ na\ v\u0161echny\ strany\ zv\u011Bt\u0161eny\ oproti\r\n\ rozm\u011Br\u016Fm\ zv\u00FDraz\u0148ovan\u00E9ho\ objektu\ o\ hodnotu\ {@code\ pridano}.\r\n\r\n\ @param\ objekt\ zv\u00FDraz\u0148ovan\u00FD\ objekt\r\n\ @param\ barva\ barva\ zv\u00FDraz\u0148uj\u00EDc\u00ED\ elipsy\ na\ pozad\u00ED\r\n\ @return\ zv\u00FDraz\u0148uj\u00EDc\u00ED\ elipsa\r\n
+comment4.params=objekt
+comment4.target=Oblast\ zjistiOblastZvyrazneni(IZvyrazneny)
+comment4.text=\ Vr\u00E1t\u00ED\ Oblast\ zv\u00FDraz\u0148ovan\u00E9ho\ objektu\ zv\u011Bt\u0161enou\ na\ v\u0161echny\ strany\r\n\r\n\ @param\ objekt\ zv\u00FDraz\u0148ovan\u00FD\ objekt\r\n\ @return\ oblast,\ ve\ kter\u00E9\ bude\ pozd\u011Bji\ vykreslen\ zv\u00FDraz\u0148uj\u00EDc\u00ED\ tvar\r\n
+numComments=5
